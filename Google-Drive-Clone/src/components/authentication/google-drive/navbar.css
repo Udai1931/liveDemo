@@ -1,0 +1,8 @@
+.navbar_styles
+{
+    display: flex;
+    justify-content: space-between !important;
+}
+.imgst{
+    height: 40px;
+}
