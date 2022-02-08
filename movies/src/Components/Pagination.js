@@ -11,7 +11,7 @@ let goBack1 = () => {
         <nav className="relative z-0 inline-flex rounded-md shadow-sm -space-x-px" aria-label="Pagination">
             <button
                 className="relative bg-indigo-50 inline-flex items-center px-2 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium  text-gray-500 hover:bg-gray-50 border-indigo-500 text-indigo-600"
-                onClick={goBack1}
+                onClick={goBack}
             >
                 Previous
             </button>

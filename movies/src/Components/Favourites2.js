@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Pagination from './Pagination';
-
+ 
 function Favourites2() {
-
     const [favourites, setFavourites] = useState([])
     const [genres,setGenres] = useState([])
     const [curGenre, setCurGenre] = useState("All Genres")
